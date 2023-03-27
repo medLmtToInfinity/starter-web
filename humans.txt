@@ -6,7 +6,7 @@
 
 # THANKS
 
-    <name>
+    To my Family From "myFeature" branch (1)
 
 # TECHNOLOGY COLOPHON
 
