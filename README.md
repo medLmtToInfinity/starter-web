@@ -15,3 +15,5 @@ Copyright 2023. All rights reserved.
 ### Adding content to see rebasing from master
 
 ### From "myFeature" to see diff
+
+This is to show how stashing works.
