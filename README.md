@@ -17,3 +17,8 @@ Copyright 2023. All rights reserved.
 ### From "myFeature" to see diff
 
 This is to show how stashing works.
+
+
+
+This line is to see that the stashing does not apply to untracked files
+
