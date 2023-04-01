@@ -22,3 +22,4 @@ This is to show how stashing works.
 
 This line is to see that the stashing does not apply to untracked files
 
+stash branch
